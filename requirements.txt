@@ -1,3 +1,2 @@
-zimscan
-numpy
 mwparserfromhell
+pyyaml
