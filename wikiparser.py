@@ -31,3 +31,5 @@ class WikiXmlHandler(xml.sax.handler.ContentHandler):
 
         if name == 'page':
             self._pages.append((self._values['title'], self._values['text']))
+
+
